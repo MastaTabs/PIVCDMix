@@ -1,0 +1,30 @@
+"Source:","/home/masta/Desktop/projects/PIV_CDMix/PIV_CDMix.sch"
+"Date:","Sa 30 Mai 2020 18:22:54 CEST"
+"Tool:","Eeschema 5.1.5"
+"Generator:","/usr/share/kicad/plugins/bom_csv_grouped_by_value.py"
+"Component Count:","10"
+
+"Individual Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet"
+"","","AMI_IN1","Conn_01x04","connect:Conn_01x04","Pin_Headers:Pin_Header_Angled_1x04_Pitch2.54mm","~"
+"","","C1","220n","Device:C_Small","Capacitors_SMD:C_0805_HandSoldering","~"
+"","","C2","220n","Device:C_Small","Capacitors_SMD:C_0805_HandSoldering","~"
+"","","CD_IN1","Conn_01x04","connect:Conn_01x04","Pin_Headers:Pin_Header_Angled_1x04_Pitch2.54mm","~"
+"","","JP6","Conn_01x02","connect:Conn_01x02","Socket_Strips:Socket_Strip_Straight_1x02_Pitch2.54mm","~"
+"","","R1","4k7","Device:R_Small","Resistors_SMD:R_0805_HandSoldering","~"
+"","","R2","4k7","Device:R_Small","Resistors_SMD:R_0805_HandSoldering","~"
+"","","X12","Conn_01x04","connect:Conn_01x04","Socket_Strips:Socket_Strip_Straight_1x04_Pitch2.54mm","~"
+"","","X23","Conn_01x04","connect:Conn_01x04","Socket_Strips:Socket_Strip_Straight_1x04_Pitch2.54mm","~"
+"","","X28","Conn_01x04","connect:Conn_01x04","Socket_Strips:Socket_Strip_Straight_1x04_Pitch2.54mm","~"
+
+
+
+"Collated Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet"
+"1","2","AMI_IN1, CD_IN1","Conn_01x04","connect:Conn_01x04","Pin_Headers:Pin_Header_Angled_1x04_Pitch2.54mm","~"
+"2","2","C1, C2","220n","Device:C_Small","Capacitors_SMD:C_0805_HandSoldering","~"
+"3","1","JP6","Conn_01x02","connect:Conn_01x02","Socket_Strips:Socket_Strip_Straight_1x02_Pitch2.54mm","~"
+"4","2","R1, R2","4k7","Device:R_Small","Resistors_SMD:R_0805_HandSoldering","~"
+"5","3","X12, X23, X28","Conn_01x04","connect:Conn_01x04","Socket_Strips:Socket_Strip_Straight_1x04_Pitch2.54mm","~"
