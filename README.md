@@ -5,7 +5,7 @@ after the audio circuits of the PicassoIV was chiseled in stone and had some sho
 
 Using this board you can listen to CD and Amiga audio through the PIV audio output at the same time.
 
-The old design is proven that this was created from. This actual layout is not.
+The design is proven and working.
 
 ![Board Image front](/pix/PIV_CDMix1.png)
 ![Board Image back](/pix/PIV_CDMix2.png)
