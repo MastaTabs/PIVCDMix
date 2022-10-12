@@ -10,7 +10,7 @@ The design is proven and working.
 ![Board Image front](/pix/PIV_CDMix1.png)
 ![Board Image back](/pix/PIV_CDMix2.png)
 
-<a href="https://www.pcbway.com/project/shareproject/PicassoIV_CDMix_1804a697.html"><img src="https://www.pcbway.com/project/img/images/frompcbway-1220.png" alt="PCB from PCBWay" /></a> <-- You may order some PCB's here.
+<a href="https://www.pcbway.com/project/shareproject/PicassoIV_CDMix_1804a697.html" target="_blank"><img src="https://www.pcbway.com/project/img/images/frompcbway-1220.png" alt="PCB from PCBWay" /></a> <-- You may order some PCB's here.
 
 ### License
 The "PIV CDMix" documentation, including the design itself, is copyright © MastaTabs (Tobias Seiler) 2020.
